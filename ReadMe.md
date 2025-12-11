@@ -155,3 +155,30 @@ npm install
     ├── App.jsx
     ├── index.css
     └── main.jsx
+
+---
+
+## 👨‍💻 Autores
+
+- GitHub: <br>
+[@lucas-cybertron](https://github.com/lucas-cybertron)<br>
+[@coffeecliff](https://github.com/coffeecliff)<br>
+[@anapaulasouza270407](https://github.com/anapaulasouza270407)
+---
+
+## 📞 Suporte
+
+Tem alguma dúvida ou encontrou um bug? 
+
+- 🐛 [Abra uma Issue](https://github.com/lucas-cybertron/back-end-x2/issues)
+- 💬 [Discussões](https://github.com/lucas-cybertron/back-end-x2/discussions)
+
+---
+
+<div align="center">
+
+**Desenvolvido com ❤️ usando FastAPI**
+
+⭐ Se este projeto foi útil, considere dar uma estrela!
+
+</div>
